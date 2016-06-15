@@ -43,6 +43,8 @@ int main(void)
 			//its not working right
 			//i think i get it right
         nrf_delay_ms(500);
+				//man navid ansari hastam
+			//i did it right finaly
 
         nrf_gpio_pin_clear(LED_1);
         nrf_gpio_pin_set(LED_0);
