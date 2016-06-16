@@ -428,9 +428,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::Device</GroupName>
-        </Group>
-        <Group>
           <GroupName>lib</GroupName>
           <Files>
             <File>
@@ -439,6 +436,9 @@
               <FilePath>..\..\..\..\Source\nrf_delay\nrf_delay.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::Device</GroupName>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
@@ -867,9 +867,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::Device</GroupName>
-        </Group>
-        <Group>
           <GroupName>lib</GroupName>
           <Files>
             <File>
@@ -878,6 +875,9 @@
               <FilePath>..\..\..\..\Source\nrf_delay\nrf_delay.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::Device</GroupName>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
@@ -1306,9 +1306,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::Device</GroupName>
-        </Group>
-        <Group>
           <GroupName>lib</GroupName>
           <Files>
             <File>
@@ -1317,6 +1314,9 @@
               <FilePath>..\..\..\..\Source\nrf_delay\nrf_delay.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::Device</GroupName>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
@@ -1745,9 +1745,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::Device</GroupName>
-        </Group>
-        <Group>
           <GroupName>lib</GroupName>
           <Files>
             <File>
@@ -1756,6 +1753,9 @@
               <FilePath>..\..\..\..\Source\nrf_delay\nrf_delay.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::Device</GroupName>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
@@ -2184,9 +2184,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::Device</GroupName>
-        </Group>
-        <Group>
           <GroupName>lib</GroupName>
           <Files>
             <File>
@@ -2195,6 +2192,9 @@
               <FilePath>..\..\..\..\Source\nrf_delay\nrf_delay.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::Device</GroupName>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
@@ -2623,9 +2623,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>::Device</GroupName>
-        </Group>
-        <Group>
           <GroupName>lib</GroupName>
           <Files>
             <File>
@@ -2634,6 +2631,9 @@
               <FilePath>..\..\..\..\Source\nrf_delay\nrf_delay.c</FilePath>
             </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>::Device</GroupName>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>
